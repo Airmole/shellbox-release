@@ -2,9 +2,10 @@ import Qrcode from "qrcode";
 import * as $ from "./lib/zepto.min.js";
 
 const $tips = $(".wechat-tips");
+const $longtapTips = $(".inwechat-longtap");
 // const $card = $(".download-card")
 const $link = $(".download-link");
-const $qrcode = $(".insert-qrcode");
+const $h5Qrcode = $(".insert-h5qrcode");
 const ua = navigator.userAgent;
 const isWechat = /micromessenger/i.test(ua);
 const isDingTalk = /DingTalk/i.test(ua);
@@ -48,19 +49,23 @@ function generateQrcode(text) {
 
 $(document).ready(function() {
   if (!$.os.phone) {
-    generateQrcode(location.href)
+/*    generateQrcode('https://shellbox.ustb.tj.cn')
       .then((url) => {
-        $qrcode.forEach(function(item) {
+        $h5Qrcode.forEach(function(item) {
           $(item).attr("src", url);
         });
       })
-      .catch(console.error);
+      .catch(console.error);*/
   }
 })
 
 window.onload = function() {
-  if (($.os.android && isWechat) || ($.os.ios && isDingTalk)) {
+  if ($.os.ios && isDingTalk) {
     return $tips.show();
+  }
+
+  if (isWechat) {
+    $longtapTips.show();
   }
 
   const downloadLinks = getData($link);

@@ -1,9 +1,10 @@
 {
-  "title":"南哪课表",
-  "description": "南大同学的专属课表",
-  "detail": "南大同学的专属课表<br />一键登陆教务系统导入课程",
-  "logo": "https://image.idealclover.cn/projects/WheretoSleepinNJU/icon.png",
-  "iOS": "https://apps.apple.com/cn/app/id1511705694",
-  "Android": "https://mirror.nju.edu.cn/download/%E5%8D%97%E5%93%AA%E8%AF%BE%E8%A1%A8",
-  "share": "南哪课表-南大同学的专属课表APP https://app.nju.today"
+  "title":"贝壳小盒子",
+  "description": "贝壳田园校园生活小助手",
+  "detail": "小贝壳er们的专属课表<br />同步查询获取课表、成绩",
+  "logo": "https://r2.airmole.net/i/2024/11/14/1a8io7-xw.jpg",
+  "h5": "https://shellbox.ustb.tj.cn",
+  "iOS": "",
+  "Android": "",
+  "share": "贝壳小盒子-贝壳田园校园生活小助手 https://shellbox.airmole.cn"
 }
