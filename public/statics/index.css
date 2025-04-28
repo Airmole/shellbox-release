@@ -417,6 +417,13 @@ p {
     color: #ffffff;
   }
 
+  #header-sponsor span {
+    border: 1px #ffffff solid;
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+  }
+
   #first_screen {
     display: flex;
     justify-content: center;
