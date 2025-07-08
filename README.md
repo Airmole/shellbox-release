@@ -46,7 +46,7 @@ yarn build
     "description": "贝壳田园校园生活小助手",
     "detail": "小贝壳er们的专属课表<br />同步查询获取课表、成绩",
     "logo": "https://r2.airmole.cn/i/2024/11/14/1a8io7-xw.jpg",
-    "h5": "https://shellbox.ustb.tj.cn",
+    "h5": "https://www.shellbox.airmole.cn",
     "qqapp": "https://m.q.qq.com/a/s/6bfa23e83168c2b2bd5e89932e61f929",
     "iOS": "",
     "Android": "",
