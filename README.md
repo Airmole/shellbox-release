@@ -9,12 +9,12 @@ Based on [CoolAPK](https://coolapk.com/) and [FEMessage/app-download](https://gi
 
 - PC 端显示效果
 
-![PC](https://r2.airmole.net/i/2024/11/15/q94pd-5a.png)
+![PC](https://r2.airmole.cn/i/2024/11/15/q94pd-5a.png)
 
 - 移动端显示效果
 
-<a href="https://r2.airmole.net/i/2024/11/15/qie5w-rc.png" target="_blank"><img src="https://r2.airmole.net/i/2024/11/15/qie5w-rc.png" width="250"></a>
-<a href="https://r2.airmole.net/i/2024/11/15/qdlr7-g5.png" target="_blank"><img src="https://r2.airmole.net/i/2024/11/15/qdlr7-g5.png" width="250"></a>
+<a href="https://r2.airmole.cn/i/2024/11/15/qie5w-rc.png" target="_blank"><img src="https://r2.airmole.cn/i/2024/11/15/qie5w-rc.png" width="250"></a>
+<a href="https://r2.airmole.cn/i/2024/11/15/qdlr7-g5.png" target="_blank"><img src="https://r2.airmole.cn/i/2024/11/15/qdlr7-g5.png" width="250"></a>
 
 - json 文件轻松配置 三分钟搭建新的 APP 下载页
 - 移动端支持直接下载对应系统，iOS 系统自动唤起应用商店
@@ -45,7 +45,7 @@ yarn build
     "title":"贝壳小盒子",
     "description": "贝壳田园校园生活小助手",
     "detail": "小贝壳er们的专属课表<br />同步查询获取课表、成绩",
-    "logo": "https://r2.airmole.net/i/2024/11/14/1a8io7-xw.jpg",
+    "logo": "https://r2.airmole.cn/i/2024/11/14/1a8io7-xw.jpg",
     "h5": "https://shellbox.ustb.tj.cn",
     "qqapp": "https://m.q.qq.com/a/s/6bfa23e83168c2b2bd5e89932e61f929",
     "iOS": "",
